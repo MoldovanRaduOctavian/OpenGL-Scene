@@ -1,0 +1,22 @@
+# Blender 3.3.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Trank_bark
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Tree/bark_0021.jpg
+
+newmtl polySurface1SG1
+Ns 5.890001
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Tree/DB2X2_L01.png
+map_Ks Tree/DB2X2_L01_Spec.png
